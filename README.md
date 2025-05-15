@@ -1,16 +1,31 @@
-## Hi there 👋
+## PORTFOLIO - NUR HIDAYAH ZULKIFLEE
+## Data-Driven HR Strategist & Analyst.
+----
+## 👋 About Me
+I’m Nur Hidayah, a data-driven HR strategist and market research analyst with a passion for turning numbers into actionable insights!
+Analytical and results-driven professional with hands-on experience in human resource management, market research and data analytics. Proven ability in program coordination, stakeholder engagement and leveraging data insights to optimize HR processes and learning outcomes. Passionate about using data to drive strategic decisions and support organizational growth.
+---
+## 🚀 Areas of Expertise
+1. Data Cleaning & Preparation
+2. Data Analysis & Statistical Methods
+3. Data Visualization
+4. Database Management
+5. Reporting & Automation
+---
+## 🛠️ Tools
+1. Python
+2. Power BI
+3. Micorosoft Excel
+4. SQL
+---
+## 📂 Projects
+Here are some of the things I've worked on:
+- [Project Title 1](link-to-project) - short description
+- [Project Title 2](link-to-project) - short description
+---
+## Reach Me
+📧 Email: hidayahzulkiflee00@gmail.com
+💼 LinkedIn: 
+---
+> "Where data meets human potential."
 
-<!--
-**nhzlkflee/nhzlkflee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
