@@ -21,8 +21,7 @@ Analytical and results-driven professional with hands-on experience in human res
 ---
 ## 📂 Projects
 Here are some of the things I've worked on:
-- [Project Title 1]((https://github.com/nhzlkflee/PESP)) - short description
-- [Project Title 2](link-to-project) - short description
+
   
 ---
 ## Reach Me
