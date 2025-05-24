@@ -22,9 +22,9 @@ Analytical and results-driven professional with hands-on experience in human res
 ## 📂 Projects
 Check out some of the things I've worked on to demonstrate my skills in data cleaning, analysis, visualization and dashboard building.
 
-| Project | Purpose | Area | Tools | Link |
-|---------|---------|------|-------|------|
-|** Students Habits Performance** | 
+|No.| Project | Purpose | Area | Tools | Link |
+|1. |---------|---------|------|-------|------|
+|** Students Habits Performance** | This project aims to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators. | EDA & Regression Analysis | Python | [View Project](https://github.com/nhzlkflee/Students-Habits-Performance)|
 
   
 ---
