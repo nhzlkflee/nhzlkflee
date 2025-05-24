@@ -1,4 +1,4 @@
-## PORTFOLIO - NUR HIDAYAH ZULKIFLEE
+# PORTFOLIO - NUR HIDAYAH ZULKIFLEE
 ## Data-Driven HR Strategist & Analyst.
 ----
 ## 👋 About Me
@@ -22,10 +22,10 @@ Analytical and results-driven professional with hands-on experience in human res
 ## 📂 Projects
 Check out some of the things I've worked on to demonstrate my skills in data cleaning, analysis, visualization and dashboard building.
 
-| Project | Purpose | Area | Tools | Link |
-|---------|---------|------|-------|------|
-| 📚 Students Habits Performance | to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators. | EDA & Regression Analysis | Python | [View Project](https://github.com/nhzlkflee/Students-Habits-Performance)|
-| PETRONAS Education Sponsorship Program Dashboard | to identify and segment target scholars for strategic development program planning | Data Cleaning & Dashboard | Microsoft Excel & Power BI | [View Project](https://github.com/nhzlkflee/PESP)|
+| Project | Purpose | Area | Tools | Link | Status |
+|---------|---------|------|-------|------|---------|
+| 📚 Students Habits Performance | to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators. | EDA & Regression Analysis | Python | [View Project](https://github.com/nhzlkflee/Students-Habits-Performance)| Pending |
+| PETRONAS Education Sponsorship Program Dashboard | to identify and segment target scholars for strategic development program planning | Data Cleaning & Dashboard | Microsoft Excel & Power BI | [View Project](https://github.com/nhzlkflee/PESP)| Completed |
 
   
 ---
