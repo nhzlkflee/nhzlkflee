@@ -1,5 +1,5 @@
 # PORTFOLIO - NUR HIDAYAH ZULKIFLEE
-## Data-Driven HR Strategist & Analyst.
+## Learning Today, Leading With Data Tomorrow
 ----
 ## 👋 About Me
 Analytical and results-driven professional with hands-on experience in human resource management, market research and data analytics. Proven ability in program coordination, stakeholder engagement and leveraging data insights to optimize HR processes and learning outcomes. Passionate about using data to drive strategic decisions and support organizational growth.
@@ -24,7 +24,7 @@ Check out some of the things I've worked on to demonstrate my skills in data cle
 
 | Project | Purpose | Area | Tools | Link | Status |
 |---------|---------|------|-------|------|---------|
-| 📚 Students Habits Performance | To analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators. | EDA & Regression Analysis | Python | [View Project](https://github.com/nhzlkflee/Students-Habits-Performance)| Completed |
+| 📚 Students Habits Performance | To analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators | EDA & Regression Analysis | Python | [View Project](https://github.com/nhzlkflee/Students-Habits-Performance)| Completed |
 | 🎓 PETRONAS Education Sponsorship Program Dashboard | To identify and segment target scholars for strategic development program planning | Data Cleaning & Dashboard | Microsoft Excel & Power BI | [View Project](https://github.com/nhzlkflee/PESP)| Ongoing |
 | 🍕 Enhanced Pizza Sales Data (2024-2025) | To identify patterns in pizza sales, customer behavior, and revenue trends | EDA & Dashboard | Power BI | [View Project](https://github.com/nhzlkflee/Enhanced-Pizza-Sales-Data-2024-2025-)| Ongoing|
 
@@ -34,5 +34,5 @@ Check out some of the things I've worked on to demonstrate my skills in data cle
 - 📧 Email: hidayahzulkiflee00@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nurhidayah86/
 ---
-> "Where data meets human potential."
+> "Where data meets human potential"
 
